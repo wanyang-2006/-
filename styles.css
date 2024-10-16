@@ -8,7 +8,7 @@
 }
 body{
     font-family:'Times New Roman', Times, serif ;
-    background-image: url(background01.jpg);
+    background-image: url(./background01.jpg);
     background-color: linear-gradient(to bottom,rgb(0,72,148),rgb(1,79,170));
     image-rendering: crisp-edges;
     background-repeat: no-repeat;
@@ -160,7 +160,7 @@ text-align: right;
 
 
 .image_2{
-    background-image: url(pic2.jpg);
+    background-image: url(./pic2.jpg);
     background-position: 0 0;
     background-attachment: fixed;
     background-size: cover;
@@ -170,7 +170,7 @@ text-align: right;
 }
 
 .image_3{
-    background-image: url(pic3.jpg);
+    background-image: url(./pic3.jpg);
     background-position: 0 0;
     background-attachment: fixed;
     background-size: cover;
@@ -180,7 +180,7 @@ text-align: right;
 }
 
 .image_4{
-    background-image: url(pic4.jpg);
+    background-image: url(./pic4.jpg);
     background-position: 0 0;
     background-attachment: fixed;
     background-size: cover;
